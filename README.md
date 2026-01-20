@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://melroy-salins-portfolio.netlify.app/](https://melroy-salins-portfolio.netlify.app/)
 
-- 📫 How to reach me **melroysalins@gmail.com**
+
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1CQvB9fJPYa3C0ajuKpMLnjKK3TK6yBlx/view?usp=sharing](https://drive.google.com/file/d/1CQvB9fJPYa3C0ajuKpMLnjKK3TK6yBlx/view?usp=sharing)
 
